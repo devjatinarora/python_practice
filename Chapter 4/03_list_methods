@@ -1,0 +1,9 @@
+l1 = [1, 8, 7, 4, 32, 9, 12]
+print(l1)
+# l1.sort() # sorts the list
+# l1.reverse() # reverse the list   
+# l1.append(45) # adds 45 at the end of the list
+# l1.insert(2, 540) # inserts 540 at index 2
+# l1.pop(1) # removes element at index 1
+# l1.remove(9) # removes 9 from the list
+print(l1)
